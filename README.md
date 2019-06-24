@@ -1,5 +1,5 @@
 # XenoMorphInvaders
-A reimagined take on the classic Space Invaders side scroller utilizing Pygame as the engine behind the game and some creative display liberties. This was my first big project that I undertook using resources from "Python Crash Course" as guidance as well as other online resources to help customize certain features. This project forced me to really understand objects/classes, methods, modules and the incredible depth of consideration one must take when designing even the most basic game. I also learned a lot about refactoring and working with multiple files/modules, how to organize and keep the code as simple as possible across many files all working towards one goal.
+A reimagined take on the classic Space Invaders side scroller utilizing Pygame as the engine behind the game and some creative display liberties. 
 
 Several notes are written within the .py files themselves for clarity. 
 
